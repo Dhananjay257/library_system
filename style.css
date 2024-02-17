@@ -4,7 +4,8 @@
 
 #navbar {
     position: sticky;
-    background-color:aqua;
+    background-color:black;
+    color: white;
     top: 0;
     padding: 10px 0;
 }
